@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I’m thrilled to have you here. Explore my projec
 - 🛠️ **Tech for Good**: Working on projects that have a positive impact on society and the environment.
 
 ## 📫 How to Reach Me
-- 📧 **Email**: [rishittandon@example.com](mailto:rishittandon@example.com)
-- 🌐 **LinkedIn**: [Rishit Tandon](https://www.linkedin.com/in/rishittandon)
-- 💬 **Twitter**: [@RishitTandon](https://twitter.com/RishitTandon)
+- 📧 **Email**: [rishit.tandon7@gmail.com](mailto:rishit.tandon.7@gmail.com)
+- 🌐 **LinkedIn**: [Rishit Tandon](https://www.linkedin.com/in/rishit-tandon-928661287/)
+- 💬 **Instagram**: [@kingrishit2.0](https://instagram.com/kingrishit2.0)
 
 ## 😄 Pronouns
 - He/Him
