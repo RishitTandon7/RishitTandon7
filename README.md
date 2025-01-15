@@ -1,6 +1,3 @@
-Here’s the full writeup for your GitHub profile README, complete with all the details to make it look like the example you provided:
-
----
 
 # 👋 Hi, I’m [Rishit Tandon](https://github.com/RishitTandon7)
 
