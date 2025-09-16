@@ -1,8 +1,12 @@
 
-# 👋 Hi, I’m [Rishit Tandon](https://github.com/RishitTandon7)
+<div align="center">
 
-![Banner](https://raw.githubusercontent.com/RishitTandon7/RishitTandon7/main/banner.png) <!-- Replace this URL with your uploaded banner -->
-
+<a href="https://git.io/typing-svg#light">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=FFFFFF&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=FFFFFF&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep!" alt="Typing SVG" />
+  </picture>
+</a>
 Welcome to my GitHub profile! I’m thrilled to have you here. Explore my projects, connect with me, and let’s create something amazing together.
 
 ---
