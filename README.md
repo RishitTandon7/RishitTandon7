@@ -24,7 +24,9 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=RishitTandon7&color=ff6b35&style=for-the-badge&label=👀+PROFILE+VIEWS" alt="Profile Views"/>
     &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/followers/RishitTandon7?color=ff1744&style=for-the-badge&logo=github&label=🚀+FOLLOWERS" alt="Followers"/>
+    <a href="https://github.com/RishitTandon7?tab=followers">
+      <img src="https://img.shields.io/badge/🚀+FOLLOWERS-Click+to+See-ff1744?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+    </a>
   </p>
   
   <p>
@@ -32,6 +34,28 @@
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/☕+COFFEE+LEVEL-MAXIMUM-brown?style=for-the-badge" alt="Coffee"/>
   </p>
+  
+  <p>
+    <a href="https://github.com/RishitTandon7?tab=repositories">
+      <img src="https://img.shields.io/badge/⭐+GITHUB+STATS-View+Profile-yellow?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats"/>
+    </a>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/🎯+STATUS-ACTIVE-4caf50?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
+  </p>
+</div>
+
+<!-- Alternative: Add GitHub Stats Cards Below -->
+<div align="center">
+  <br/>
+  
+  <!-- These should definitely work for live stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RishitTandon7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00D9FF&text_color=C9D1D9"/>
+  
+  <!-- This will show your actual follower count -->
+  <br/><br/>
+  <a href="https://github.com/RishitTandon7?tab=followers">
+    <img src="https://github-readme-stats.vercel.app/api?username=RishitTandon7&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&custom_title=📊+Live+GitHub+Stats&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&hide_border=true" alt="Live Stats"/>
+  </a>
 </div>
 
 <!-- Multi-Colored Animated Wave -->
