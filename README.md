@@ -1,3 +1,5 @@
+<p align="center"><sub><b>Rishit Tandon</b> · AI/ML &amp; hardware engineer · final-year B.Tech CSE, SRM IST (2027) · 12+ hackathon wins, 6 firsts · <a href="https://portfolio.rishit.site">portfolio.rishit.site</a></sub></p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1C,50:1B2A6B,100:FFB547&height=110&section=header"/>
 
 <table>
@@ -12,8 +14,8 @@
 <td width="60%" valign="middle">
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=700&pause=99999&color=8A93B8&center=false&vCenter=true&repeat=false&width=560&height=24&lines=AI+%C3%97+HARDWARE+ENGINEER++%2F++CHENNAI%2C+IN"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=700&pause=99999&color=5A6386&center=false&vCenter=true&repeat=false&width=560&height=24&lines=AI+%C3%97+HARDWARE+ENGINEER++%2F++CHENNAI%2C+IN" alt="AI × Hardware Engineer / Chennai, IN" /></picture><br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Display&weight=900&size=150&duration=700&pause=99999&color=F2F5FF&center=false&vCenter=true&repeat=false&width=560&height=130&lines=RISHIT"/><img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Display&weight=900&size=150&duration=700&pause=99999&color=0A0E1C&center=false&vCenter=true&repeat=false&width=560&height=130&lines=RISHIT" alt="RISHIT" /></picture><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Display&weight=900&size=150&duration=900&pause=99999&color=FFB547&center=false&vCenter=true&repeat=false&width=560&height=130&lines=TANDON" alt="TANDON"/><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Display&weight=900&size=150&duration=700&pause=99999&color=F2F5FF&center=false&vCenter=true&repeat=false&width=560&height=130&lines=RISHIT"/><img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Display&weight=900&size=150&duration=700&pause=99999&color=0A0E1C&center=false&vCenter=true&repeat=false&width=560&height=130&lines=RISHIT" alt="Rishit Tandon" /></picture><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Display&weight=900&size=150&duration=900&pause=99999&color=FFB547&center=false&vCenter=true&repeat=false&width=560&height=130&lines=TANDON" alt=""/><br/>
 <a href="https://portfolio.rishit.site"><img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Display&weight=900&size=30&duration=2000&pause=900&color=FFB547&center=false&vCenter=true&repeat=true&width=560&height=44&lines=BUILD.+SHIP.+FLY.;GLASSES+THAT+THINK.;DRONES+THAT+SWARM.;ROVERS+YOU+STEER+WITH+YOUR+MIND.;250%2B+PEOPLE+USE+WHAT+I+SHIP." alt="Build. Ship. Fly."/></a><br/>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="54" alt="AI agents" title="AI agents"/>&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="54" alt="Smart glasses" title="Smart glasses"/>&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f41d/512.gif" width="54" alt="Drone swarms" title="Drone swarms"/>&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="54" alt="BCI" title="BCI"/>&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="54" alt="Hardware" title="Hardware"/>&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="54" alt="Shipped" title="Shipped"/>&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="54" alt="12+ wins" title="12+ wins"/><br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="540"/><br/>
@@ -34,7 +36,7 @@
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://img.shields.io/badge/HACKATHON%20WINS-12%2B-FFB547?style=flat-square&labelColor=1B2A6B"/> <img src="https://img.shields.io/badge/FIRST%20PLACES-6-FFB547?style=flat-square&labelColor=1B2A6B"/> <img src="https://img.shields.io/badge/PUBLIC%20REPOS-100%2B-FFB547?style=flat-square&labelColor=1B2A6B"/> <img src="https://img.shields.io/badge/CONTRIBUTIONS%202026-9k%2B-FFB547?style=flat-square&labelColor=1B2A6B"/> <img src="https://img.shields.io/badge/LIVE%20USERS-250%2B-FFB547?style=flat-square&labelColor=1B2A6B"/>
+<img src="https://img.shields.io/badge/HACKATHON%20WINS-12%2B-FFB547?style=flat-square&labelColor=1B2A6B"/> <img src="https://img.shields.io/badge/FIRST%20PLACES-6-FFB547?style=flat-square&labelColor=1B2A6B"/> <img src="https://img.shields.io/badge/REPOS-100%2B-FFB547?style=flat-square&labelColor=1B2A6B"/> <img src="https://img.shields.io/badge/CONTRIBUTIONS%202026-9k%2B-FFB547?style=flat-square&labelColor=1B2A6B"/> <img src="https://img.shields.io/badge/LIVE%20USERS-250%2B-FFB547?style=flat-square&labelColor=1B2A6B"/>
 <img src="https://komarev.com/ghpvc/?username=RishitTandon7&color=FFB547&style=flat-square&label=VISITORS&labelColor=1B2A6B"/>
 
 </td>
@@ -59,7 +61,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1400&pause=2500&color=C9D2F0&center=false&vCenter=true&repeat=true&width=460&height=170&multiline=true&lines=%3E+jarvis%2C+who%27s+this%3F;Rishit+Tandon.+Final-year+CSE%2C+SRM+IST.;Builds+AI+glasses%2C+drone+swarms%2C+BCIs.;12%2B+hackathon+wins.+6+first+places.;Open+to+SDE+%2B+AI%2FML+roles%2C+2027."/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1400&pause=2500&color=1B2A6B&center=false&vCenter=true&repeat=true&width=460&height=170&multiline=true&lines=%3E+jarvis%2C+who%27s+this%3F;Rishit+Tandon.+Final-year+CSE%2C+SRM+IST.;Builds+AI+glasses%2C+drone+swarms%2C+BCIs.;12%2B+hackathon+wins.+6+first+places.;Open+to+SDE+%2B+AI%2FML+roles%2C+2027." alt="Jarvis: Rishit Tandon. Final-year CSE, SRM IST. Builds AI glasses, drone swarms, BCIs. Open to SDE + AI/ML roles, 2027." /></picture>
 
 <img src="https://img.shields.io/badge/HACKATHON%20WINS-12%2B-FFB547?style=flat-square&labelColor=0A0E1C"/> <img src="https://img.shields.io/badge/FIRST%20PLACES-6-FFB547?style=flat-square&labelColor=0A0E1C"/><br/>
-<img src="https://img.shields.io/badge/PUBLIC%20REPOS-100%2B-FFB547?style=flat-square&labelColor=0A0E1C"/> <img src="https://img.shields.io/badge/CONTRIBUTIONS%202026-9k%2B-FFB547?style=flat-square&labelColor=0A0E1C"/><br/>
+<img src="https://img.shields.io/badge/REPOS-100%2B-FFB547?style=flat-square&labelColor=0A0E1C"/> <img src="https://img.shields.io/badge/CONTRIBUTIONS%202026-9k%2B-FFB547?style=flat-square&labelColor=0A0E1C"/><br/>
 <img src="https://img.shields.io/badge/LIVE%20USERS-250%2B-FFB547?style=flat-square&labelColor=0A0E1C"/>
 
 <br clear="right"/>
@@ -181,7 +183,7 @@ Browse and buy AI agents, get an API key instantly.
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"cScale0":"#1B2A6B","cScaleLabel0":"#F2F5FF","cScale1":"#FFB547","cScaleLabel1":"#0A0E1C","cScale2":"#1B2A6B","cScaleLabel2":"#F2F5FF","cScale3":"#FFB547","cScaleLabel3":"#0A0E1C","fontFamily":"monospace"}}}%%
 timeline
-    Dec 2022 : Class 11 : Start building A.I.S.G.R. smart glasses
+    Class 11 : Start building A.I.S.G.R. smart glasses
     2024 : 1st, RoboRoarZ Singapore : 2nd, RoboRoarZ International
     2026 : LinkedOut Pro launches in June : 250+ users : DocuMind final-year project
     2027 : Graduate from SRM IST : Join a team that ships
